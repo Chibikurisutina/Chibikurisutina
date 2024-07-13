@@ -1,6 +1,6 @@
 ## Olá 👋
 
-- 🌱 Atualmente estudando JavaScript para back-end em com a Reprograma
+- 🌱 atualmente estudando JavaScript para back-end com a Reprograma
 - 😄 pronomes: ela/dela
-- ⚡ hobbies: taekwondo, muay thai, leitura, animes, videogame
+- ⚡ hobbies: praticar esportes, leitura, animes, videogame
 
