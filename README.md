@@ -1,4 +1,5 @@
 ## Olá 👋
+![Hello, World!](https://github.com/Chibikurisutina/Chibikurisutina/blob/main/github_.jpg)
 
 - 🌱 estudante de análise e desenvolvimento de sistemas em Unisinos
 - 😄 pronomes: ela/dela
